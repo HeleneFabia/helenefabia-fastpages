@@ -3,7 +3,7 @@ title: "Writing Ideas"
 description: "Brain dump about what I want to write about in the upcoming months"
 layout: post
 toc: false
-comments: false
+comments: true
 hide: false
 search_exclude: true
 ---
