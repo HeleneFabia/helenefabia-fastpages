@@ -1,9 +1,20 @@
 {
   
     
+        "post0": {
+            "title": "My year in books - 2021",
+            "content": "This year, for the first time, I set myself a reading challenge in Goodreads. I only started using Goodreads at the end of 2019 and used it throughout 2020 to track all the books I read and wanted to read. So based on the number of books I read in 2020 (it was 27), I challenged myself to 30 books. Given that in 2020 I had quite some slack and found a lot of time to read, I was curious whether with a full-time job this year, I would be able to reach my goal. . And I did! Already at the beginning of December I finished my 30th book. Alas, here it is: my year in books. I won’t include every book I read this year, though, but a selection of the most memorable ones. . Non-Fiction . Eating Animals by Jonathan Safran Foer . The Art of Gathering: How We Meet and Why It Matters by Priya Parker . The Scout Mindest: Why Some People See Things Clearly and Others Don’t by Julia Galef . Think Again by Adam Grant . Factfulness by Hans Rosling . The Anthropocene Reviewed by John Green . Ego is the Enemy by Ryan Holiday . Stillness is the Key by Ryan Holiday . Fiction . Three Worlds Collide by Eliezer Yudkowsky . The Horse and His Boy by C. S. Lewis .",
+            "url": "https://helenefabia.github.io/helenefabia-fastpages/2021/12/14/my-year-in-books.html",
+            "relUrl": "/2021/12/14/my-year-in-books.html",
+            "date": " • Dec 14, 2021"
+        }
+        
+    
   
     
-        "post1": {
+  
+    
+        ,"post2": {
             "title": "An Example Markdown Post",
             "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
             "url": "https://helenefabia.github.io/helenefabia-fastpages/markdown/2020/01/14/test-markdown-post.html",
