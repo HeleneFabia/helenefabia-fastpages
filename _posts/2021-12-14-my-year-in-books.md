@@ -15,9 +15,11 @@ And I did! Already at the beginning of December I finished my 30th book. Alas, h
 
 Over the past few year, I have read widely and deeply into the topics of animal ethics, animal welfare and veganism. But oh my, if ever anyone is curious about besaid topics, I would undoubtedly recommend them this book. 
 Foer does not want to convince you to go vegan - in fact, he is also on the fence about it. Which is why he wrote this book in the first place, to gain more clarity on where meat comes from, and how it affects animals, people, and the environment. He talks with meat plant workers, pig farmers and vegan activists, and shows how multi-facetted and complex the question of what we eat in fact is.  
-What struck me the most about this book is how ruthless and honest he is in presenting the facts about factory farming. His descriptions of injured, ill and caged-up animals were horrifying and - although just words - almost as shocking and repulsive as seeing documentaries about it.
+What struck me the most about this book is how ruthless and honest he is in presenting the facts about factory farming. His descriptions of injured, ill and caged-up animals were horrifying and - although just words - almost as shocking and repulsive as seeing documentaries about it. The power of the images Foer creates with words makes the book a very compelling read and I think leaves every reader with a lot to think about.
 
 ### *The Art of Gathering: How We Meet and Why It Matters* by Priya Parker
+
+Having been an effective altruism community builder for two and a half years, I am fascinated by how to create engaging events, help a people in a group connect with each other on a personal level, and turn gatherings into memorable moments. The particular reason I read this book was that I was organizing this year's EA retreat. Since this was my first multi-day event I ever organized and because of my desire to create a unique experience for member of the Austrian EA community to connect in person aftermany lockdowns and online-only events, I decided to learn more about event organizing. Except that this bookis not really about event organizing. It's about 
 
 ### *The Scout Mindest: Why Some People See Things Clearly and Others Don't* by Julia Galef
 
