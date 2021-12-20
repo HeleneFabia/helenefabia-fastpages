@@ -9,8 +9,6 @@ This year, for the first time, I set myself a reading challenge in Goodreads. I 
 
 And I did! Already at the beginning of December I finished my 30th book. Alas, here it is: my year in books. I won't include every book I read this year, though, but a selection of the most memorable ones.
 
-## Non-Fiction
-
 ### *Eating Animals* by Jonathan Safran Foer
 
 Over the past few year, I have read widely and deeply into the topics of animal ethics, animal welfare and veganism. But oh my, if ever anyone is curious about besaid topics, I would undoubtedly recommend them this book. 
@@ -23,8 +21,6 @@ Having been an effective altruism community builder for two and a half years, I 
 
 ### *The Scout Mindest: Why Some People See Things Clearly and Others Don't* by Julia Galef
 
-### *Think Again* by Adam Grant
-
 ### *Factfulness* by Hans Rosling
 
 ### *The Anthropocene Reviewed* by John Green
@@ -32,9 +28,3 @@ Having been an effective altruism community builder for two and a half years, I 
 ### *Ego is the Enemy* by Ryan Holiday
 
 ### *Stillness is the Key* by Ryan Holiday
-
-## Fiction
-
-### *Three Worlds Collide* by Eliezer Yudkowsky
-
-### *The Horse and His Boy* by C. S. Lewis
